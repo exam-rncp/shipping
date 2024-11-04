@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/microservices-demo/shipping.svg?branch=master)](https://travis-ci.org/microservices-demo/shipping) [![Coverage Status](https://coveralls.io/repos/github/microservices-demo/shipping/badge.svg?branch=master)](https://coveralls.io/github/microservices-demo/shipping?branch=master)
-[![](https://images.microbadger.com/badges/image/weaveworksdemos/shipping.svg)](http://microbadger.com/images/weaveworksdemos/shipping "Get your own image badge on microbadger.com")
+[![Coverage Status](https://coveralls.io/github/exam-rncp/shipping/badge.svg?branch=main)](https://coveralls.io/github/exam-rncp/shipping?branch=main)
+[![ci](https://github.com/exam-rncp/shipping/actions/workflows/main.yml/badge.svg)](https://github.com/exam-rncp/shipping/actions/workflows/main.yml)
 
 # DEPRECATED: shipping
 A microservices-demo service that provides shipping capabilities.
