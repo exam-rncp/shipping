@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/github/exam-rncp/shipping/badge.svg?branch=main)](https://coveralls.io/github/exam-rncp/shipping?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/exam-rncp/shipping/badge.svg?branch=main)](https://coveralls.io/github/exam-rncp/shipping?branch=main)
 [![ci](https://github.com/exam-rncp/shipping/actions/workflows/main.yml/badge.svg)](https://github.com/exam-rncp/shipping/actions/workflows/main.yml)
 
 # DEPRECATED: shipping
